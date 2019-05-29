@@ -1,0 +1,2 @@
+# update hosts file
+0 4 * * * /usr/bin/update-blacklist.sh
